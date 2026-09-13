@@ -15,10 +15,10 @@ LIVE ASCII PREVIEW         GRID: 160x90          RENDER FPS: 29.4 / 30
 ### Demo GIFs
 
 **Input Video:**
-![Input Demo](assets/demo/input-demo.gif)
+![Input Demo](assets/demo/input_demo.gif)
 
 **ASCII Rendered Output:**
-![Output Demo](assets/demo/output-demo.gif)
+![Output Demo](assets/demo/output_demo.gif)
 
 ---
 
