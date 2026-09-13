@@ -1,0 +1,6 @@
+opencv-python
+pygame
+numpy
+pillow
+imageio-ffmpeg
+pygame_gui

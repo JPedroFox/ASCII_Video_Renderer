@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build do PyInstaller
+build/
+dist/
+*.spec
+
+# Arquivos gerados/temporários do projeto
+temp_export/
+output/
+
+# Vídeos de teste (não versionar mídia)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Fonte — decisão sua, ver nota abaixo
+# assets/fonts/*.ttf
+
+# Configs de IDE
+.vscode/
+.idea/
