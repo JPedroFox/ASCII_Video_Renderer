@@ -1,28 +1,22 @@
-# Ambiente virtual
+# Virtual environment
 venv/
 
 # Python
 __pycache__/
 *.pyc
 
-# Build do PyInstaller
+# PyInstaller build
 build/
 dist/
 *.spec
 
-# Arquivos gerados/temporários do projeto
+# Generated/temporary project files
 temp_export/
 output/
 
-# Vídeos de teste (não versionar mídia)
-*.mp4
-*.avi
-*.mov
-*.mkv
-
-# Fonte — decisão sua, ver nota abaixo
+# Font — your choice, see note below
 # assets/fonts/*.ttf
 
-# Configs de IDE
+# IDE configs
 .vscode/
 .idea/

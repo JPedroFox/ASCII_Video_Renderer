@@ -12,7 +12,9 @@ Black screen, white characters. No filters, no effects — just the 95 printable
 LIVE ASCII PREVIEW         GRID: 160x90          RENDER FPS: 29.4 / 30
 ```
 
-*(add a GIF or screenshot of the app running here)*
+Sample videos are available in the `samples/` folder:
+- **input.mp4** - Original source video for demonstration
+- **output.mp4** - Example ASCII-rendered output
 
 ---
 
@@ -109,6 +111,9 @@ The final executable is located in `dist/ASCII_Video_Renderer.exe` — runs on a
 ```
 ascii-video-renderer/
 ├── assets/fonts/           # monospaced font used in rendering
+├── samples/                # sample input and output videos
+│   ├── input.mp4          # original source video
+│   └── output.mp4         # example ASCII-rendered output
 ├── src/
 │   ├── video_reader.py     # video decoding and metadata
 │   ├── grid_calculator.py  # grid calculation preserving aspect ratio
