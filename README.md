@@ -12,7 +12,13 @@ Black screen, white characters. No filters, no effects — just the 95 printable
 LIVE ASCII PREVIEW         GRID: 160x90          RENDER FPS: 29.4 / 30
 ```
 
-![ASCII Video Renderer Demo](https://media.giphy.com/... OR add your demo.gif here)
+### Demo GIFs
+
+**Input Video:**
+![Input Demo](assets/demo/input-demo.gif)
+
+**ASCII Rendered Output:**
+![Output Demo](assets/demo/output-demo.gif)
 
 ---
 
