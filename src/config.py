@@ -18,7 +18,7 @@ import sys
 import os
 
 def resource_path(relative_path):
-    """Retorna o caminho correto, tanto em desenvolvimento quanto empacotado como .exe"""
+    """Returns the correct path, both in development and when packaged as .exe"""
     if hasattr(sys, '_MEIPASS'):
         base_path = sys._MEIPASS
     else:
